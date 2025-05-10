@@ -53,7 +53,3 @@
 </div>
 
 ###
-
-<h3 align="left">🔥   Meus Stats:</h3>
-
-###
